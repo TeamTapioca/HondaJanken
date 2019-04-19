@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "HondaJanken",
-"dataUrl": "Honda.data.unityweb",
-"wasmCodeUrl": "Honda.wasm.code.unityweb",
-"wasmFrameworkUrl": "Honda.wasm.framework.unityweb",
+"dataUrl": "Honda2.data.unityweb",
+"wasmCodeUrl": "Honda2.wasm.code.unityweb",
+"wasmFrameworkUrl": "Honda2.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
